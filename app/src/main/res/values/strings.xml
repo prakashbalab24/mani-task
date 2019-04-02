@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ManiTask</string>
+    <string name="tea">TEA</string>
+    <string name="coffee">COFFEE</string>
+    <string name="milk">MILK</string>
+    <string name="vada">VADA</string>
+    <string name="samosa">SAMOSA</string>
+    <string name="vada_2">VADA 2</string>
+</resources>
